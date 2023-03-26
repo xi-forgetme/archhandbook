@@ -137,3 +137,26 @@ ninja -C build install
 ```
 
 ## 大功告成！
+
+## 附加
+
+### yaocccc/omz     `oh-my-zsh`
+
+[yaocccc/omz](https://yaocc.cc/omz/)
+
+切换用户默认Shell为zsh：
+
+```
+chsh -s /bin/zsh
+```
+
+### yaocccc/nvim    `nvim`
+
+***配置nvim务必挂好梯子！！！***
+
+[yaocccc/nvim](https://github.com/yaocccc/nvim)
+
+依赖： `node-js npm`
+```
+sudo pacman -S nodejs-lts-gallium npm
+```
