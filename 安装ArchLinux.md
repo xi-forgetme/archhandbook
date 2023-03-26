@@ -87,14 +87,6 @@ cat /mnt/etc/fstab #检查生成的文件
 arch-chroot /mnt
 ```
 
-#### 设置时区
-
-```
-timedatectl set-timezone Asia/Taipei
-
-hwclock --systohc   #同步硬件时钟
-```
-
 #### 设置本地化
 
 ```
