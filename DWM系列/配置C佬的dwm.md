@@ -2,6 +2,8 @@
 
 [什么是DWM](https://zh.wikipedia.org/wiki/Dwm)
 
+# [C佬GitHub主页](https://github.com/yaocccc)
+
 ## 仓库地址
 
 [yaocccc/dwm](https://github.com/yaocccc/dwm)
@@ -13,6 +15,8 @@
 [yaocccc/scripts](https://github.com/yaocccc/scripts)
 
 [yaocccc/st](https://github.com/yaocccc/st)
+
+# 配置方法
 
 ## 安装xorg
 
